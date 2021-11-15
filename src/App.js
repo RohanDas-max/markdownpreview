@@ -47,8 +47,7 @@ export default function App() {
   1. Use just 1s if you want!
   1. And last but not least, let's not forget embedded images:
   
-  ![My Linkedin](https://media-exp1.licdn.com/dms/image/C5635AQHs8HLGw_LzhA/profile-framedphoto-shrink_200_200/0/1619808335802?e=1620241200&v=beta&t=G1909YA8Mv11p1ubOc9vIxcofDAkY36rhSjraA5JuPA)
-[linkedin](https://www.linkedin.com/in/rohan-max/)
+  [My Twitter](https://twitter.com/0Rohandas)
 
   `)
 
