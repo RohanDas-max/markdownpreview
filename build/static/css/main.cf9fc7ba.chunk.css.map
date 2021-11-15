@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,kBAAmB,CACnB,kBAEF,CAGA,KAAO,oBAAuB,CAE9B,KACE,qCACF","file":"main.cf9fc7ba.chunk.css","sourcesContent":[".div{\n  display: grid;\n  place-items: center;\n  align-items: center;\n\n}\n\n\n.w74 { word-wrap: break-word; }\n\nbody{\n  background-color: rgba(0, 128, 117, 0.623);\n}"]}
